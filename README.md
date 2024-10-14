@@ -13,10 +13,10 @@ Please feel free to reach out to me if you have any question or feedback for me
 ## 😊 Here's a quick summary of me !!!
 
  ### 💡 Fun act →
- *  I'm currently studying at AltSchool Africa <a href="https://www.altschoolafrica.com/schools/engineering" target="_blank">School of Software Engineering</a> Class of 2022.
- * 👀 I’m interested in Coding challenges,open source,intern roles
+ *  I studied software Enineering at AltSchool Africa <a href="https://www.altschoolafrica.com/schools/engineering" target="_blank">School of Software Engineering</a> Class of 2022.
+ * 👀 I’m interested in Coding challenges,open source,intern,contract,fulltime and remote roles
  
- ### 🌱 I’m currently learning →
+ ### 🌱 I have a good knowledge of →
  * <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
  * <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
@@ -26,7 +26,7 @@ Please feel free to reach out to me if you have any question or feedback for me
 ### 💼 Technical Skills →
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></span>  <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></span>  <span><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></span> 
 
-* 📫 You can view my <a href="https://github.com/lightosita?tab=repositories" target="_blank">Resume</a> and contact me by <a href="mailto: lightazuh@yahoo.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center"></a>
+* 📫 You can view my <a href="https://github.com/lightosita?tab=repositories" target="_blank">Resume</a> and contact me by <a href="mailto: lightazuh75@gmail.com">   <a href="mailto: lightazuh@yahoo.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center"></a>
 
 ### 💻 Goals →
  * 💞️ I’m working towards becoming a world class developer under the year in view.
