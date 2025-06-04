@@ -4,11 +4,11 @@
  # Hello there, welcome! 👋🏾
 
 ###  🤝🏽 Connect with me →
-[![Linkedin Badge](https://img.shields.io/badge/-lightosita-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/light-osita-734251112)](https://www.linkedin.com/in/light-osita-734251112) [![Twitter Badge](https://img.shields.io/badge/-@ositalight-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/OsitaLight)](https://twitter.com/OsitaLight)
+[![Linkedin Badge](https://img.shields.io/badge/-lightosita-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Osita-light)](https://www.linkedin.com/in/Osita-light) [![Twitter Badge](https://img.shields.io/badge/-@ositalight-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/OsitaLight)](https://twitter.com/OsitaLight)
 
 Please feel free to reach out to me if you have any question or feedback for me
 
-### I am **Light Osita**, I'm a *Software Engineer[8i*. I'm passionate about sharing knowledge, web engineering,open source projects and others.
+### I am **Light Osita**, I'm a *Software Engineer*. I'm passionate about sharing knowledge, web engineering,open source projects and others.
 
 ## 😊 Here's a quick summary of me !!!
 
@@ -27,7 +27,7 @@ Please feel free to reach out to me if you have any question or feedback for me
 
 
 ### 💼 Technical Skills →
-* 📫 You can view my <a href="https://github.com/lightosita?tab=repositories" target="_blank">Resume</a> and contact me by <a href="mailto: lightazuh75@gmail.com">   <a href="mailto: lightazuh@yahoo.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center"></a>
+* 📫 You can view my <a href="(https://flowcv.com/resume/q777605fua)" target="_blank">Resume</a> and contact me by <a href="mailto: lightazuh75@gmail.com">   <a href="mailto: lightazuh@yahoo.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center"></a>
 
 ### 💻 Goals →
  * 💞️ I’m working towards becoming a world class developer under the year in view.
