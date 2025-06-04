@@ -8,30 +8,31 @@
 
 Please feel free to reach out to me if you have any question or feedback for me
 
-### I am **Light Osita**, I'm a *Software Engineer*. I'm passionate about sharing knowledge, web engineering,open source projects and others.
+### I am **Light Osita**, I'm a *Software Engineer[8i*. I'm passionate about sharing knowledge, web engineering,open source projects and others.
 
 ## 😊 Here's a quick summary of me !!!
 
  ### 💡 Fun act →
+  *  I'm currently studing Computer Science at National open University on Nigeria Class of 2025.
  *  I studied software Enineering at AltSchool Africa <a href="https://www.altschoolafrica.com/schools/engineering" target="_blank">School of Software Engineering</a> Class of 2022.
  * 👀 I’m interested in Coding challenges,open source,intern,contract,fulltime and remote roles
  
  ### 🌱 I have a good knowledge of →
  * <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
  * <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ * <img src="https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=vue&logoColor=61DAFB">
+ * <img src="https://img.shields.io/badge/Css-20232A?style=for-the-badge&logo=css&logoColor=61DAFB">
 
-### 🔭 I'm currently working on →
+### 🔭 I'm currently working on becoming a world class developer.
 
 
 ### 💼 Technical Skills →
-<span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></span>  <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></span>  <span><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></span> 
-
 * 📫 You can view my <a href="https://github.com/lightosita?tab=repositories" target="_blank">Resume</a> and contact me by <a href="mailto: lightazuh75@gmail.com">   <a href="mailto: lightazuh@yahoo.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center"></a>
 
 ### 💻 Goals →
  * 💞️ I’m working towards becoming a world class developer under the year in view.
  * 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
- * 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+ * 💼 Job interests: Software Engineer, web Development, Front-End Engineer, or UI Engineer (Intern or Junior level).
  
  ### 📈 GitHub Stats →
 
