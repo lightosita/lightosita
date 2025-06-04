@@ -27,7 +27,7 @@ Please feel free to reach out to me if you have any question or feedback for me
 
 
 ### 💼 Technical Skills →
-* 📫 You can view my <a href="(https://flowcv.com/resume/q777605fua)" target="_blank">Resume</a> and contact me by <a href="mailto: lightazuh75@gmail.com">   <a href="mailto: lightazuh@yahoo.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center"></a>
+* 📫 You can view my <a href="https://flowcv.com/resume/q777605fua" target="_blank">Resume</a> and contact me by <a href="mailto:lightazuh75@gmail.com">   <a href="mailto:lightazuh@yahoo.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center"></a>
 
 ### 💻 Goals →
  * 💞️ I’m working towards becoming a world class developer under the year in view.
