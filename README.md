@@ -8,7 +8,7 @@
 
 Please feel free to reach out to me if you have any question or feedback for me
 
-### I am **Light Osita**, I'm a *Software Engineer*. I'm passionate about sharing knowledge, web engineering,open source projects and others.
+### I am **Light Osita**, I'm a *devOps cloud Engineer*. I'm passionate about sharing knowledge, web engineering,open source projects and others.
 
 ## 😊 Here's a quick summary of me !!!
 
