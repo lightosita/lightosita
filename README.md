@@ -1,49 +1,68 @@
+# Hello there, welcome! 👋🏾
 
+### 🤝🏽 Connect with me →
+[![LinkedIn Badge](https://img.shields.io/badge/-Osita--Light-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/osita-light) [![Twitter Badge](https://img.shields.io/badge/-@OsitaLight-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/OsitaLight) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lightazuh75@gmail.com)
 
+Feel free to reach out if you have any questions, feedback, or an interesting problem to solve together.
 
- # Hello there, welcome! 👋🏾
+### I'm **Light Osita**, a *DevOps & Cloud Engineer* growing into **Platform Engineering**. 🚀
+I build reliable, automated, observable infrastructure, and I care about developer experience, GitOps, and sharing what I learn along the way.
 
-###  🤝🏽 Connect with me →
-[![Linkedin Badge](https://img.shields.io/badge/-lightosita-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Osita-light)](https://www.linkedin.com/in/Osita-light) [![Twitter Badge](https://img.shields.io/badge/-@ositalight-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/OsitaLight)](https://twitter.com/OsitaLight)
+## 😊 Quick summary of me
 
-Please feel free to reach out to me if you have any question or feedback for me
+### 💡 Fun facts →
+* 🎓 I'm completing a B.Sc. in Computer Science at the National Open University of Nigeria (Class of 2026).
+* 💻 I studied Software Engineering at <a href="https://www.altschoolafrica.com/schools/engineering" target="_blank">AltSchool Africa</a> (Class of 2022), so I started in frontend and moved into infrastructure.
+* ☁️ I'm currently on the Teleios Advanced DevOps Program, building production-style cloud platforms.
+* 👀 I'm interested in remote, contract, and full-time roles in DevOps, Cloud, Platform Engineering, and SRE.
 
-### I am **Light Osita**, I'm a *devOps cloud Engineer*. I'm passionate about sharing knowledge, web engineering,open source projects and others.
+### 🌱 What I work with →
 
-## 😊 Here's a quick summary of me !!!
+**☁️ Cloud & IaC**
 
- ### 💡 Fun act →
-  *  I'm currently studing Computer Science at National open University on Nigeria Class of 2025.
- *  I studied software Enineering at AltSchool Africa <a href="https://www.altschoolafrica.com/schools/engineering" target="_blank">School of Software Engineering</a> Class of 2022.
- * 👀 I’m interested in Coding challenges,open source,intern,contract,fulltime and remote roles
- 
- ### 🌱 I have a good knowledge of →
- * <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
- * <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
- * <img src="https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=vue&logoColor=61DAFB">
- * <img src="https://img.shields.io/badge/Css-20232A?style=for-the-badge&logo=css&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
 
-### 🔭 I'm currently working on becoming a world class developer.
+**📦 Containers & Orchestration**
 
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
-### 💼 Technical Skills →
-* 📫 You can view my <a href="https://flowcv.com/resume/q777605fua" target="_blank">Resume</a> and contact me by <a href="mailto:lightazuh75@gmail.com">   <a href="mailto:lightazuh@yahoo.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center"></a>
+**🔄 CI/CD & GitOps**
+
+<img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+
+**📊 Observability**
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"> <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white"> <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white">
+
+**🛠️ Scripting**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
+
+### 🔭 What I'm working on →
+* Building GitOps-driven Kubernetes platforms with Argo CD and Terraform.
+* Designing CI/CD pipelines with security and observability built in.
+* Learning to treat infrastructure as a product, with self-service tooling that makes developers faster.
+
+### 💼 Resume & Contact →
+* 📫 View my <a href="https://flowcv.com/resume/q777605fua" target="_blank">Resume</a> or email me at <a href="mailto:lightazuh75@gmail.com">lightazuh75@gmail.com</a>
 
 ### 💻 Goals →
- * 💞️ I’m working towards becoming a world class developer under the year in view.
- * 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
- * 💼 Job interests: Software Engineer, web Development, Front-End Engineer, or UI Engineer (Intern or Junior level).
- 
- ### 📈 GitHub Stats →
+* 🎯 Grow into a **Platform Engineer**, building internal developer platforms and golden paths that teams love to use.
+* 🤝 Contribute to open source projects in the cloud-native ecosystem (Kubernetes, Argo, Terraform, observability).
+* 💼 Job interests: DevOps Engineer, Cloud Engineer, Platform Engineer, Site Reliability Engineer (remote).
 
- 
- ---
+### 📈 GitHub Stats →
 
-| <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=lightosita&theme=tokyonight&stroke=DD59CF&show_icons=true&include_all_commits=true&hide_border=true" alt="Light Osita's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightosita&langs_count=8&layout=compact&hide_border=true" alt="Light Osita's GitHub stats" /> |
-| ------------- | ------------- |
+---
 
+<p align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=lightosita&theme=tokyonight&stroke=DD59CF&show_icons=true&include_all_commits=true&hide_border=true" alt="Light Osita's GitHub streak" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightosita&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Light Osita's top languages" />
+</p>
 
 <!---
 lightosita/lightosita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
